@@ -1,0 +1,23 @@
+[
+  {
+    "id": "pengalaman",
+    "value": 3,
+    "suffix": "+",
+    "label": "Tahun Pengalaman",
+    "deskripsi": "Pengalaman belajar dan membangun berbagai solusi web & aplikasi interaktif."
+  },
+  {
+    "id": "proyek",
+    "value": 15,
+    "suffix": "+",
+    "label": "Proyek Selesai",
+    "deskripsi": "Aplikasi web responsif, antarmuka visual, dan sistem perangkat lunak modern."
+  },
+  {
+    "id": "teknologi",
+    "value": 12,
+    "suffix": "+",
+    "label": "Teknologi Dikuasai",
+    "deskripsi": "React, TypeScript, Tailwind CSS, Vite, Framer Motion, Node.js, dan 3D visual."
+  }
+]

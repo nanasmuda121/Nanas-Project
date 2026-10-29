@@ -5,7 +5,8 @@
     "subjudul": "Habit & Productivity Tracker App",
     "deskripsi": "Aplikasi seluler untuk manajemen waktu harian, pelacak kebiasaan (habit tracker), dan insight grafis progres diri dengan offline sync.",
     "tags": ["React Native", "Expo", "TypeScript", "Tailwind CSS"],
-    "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&q=80"
+    "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&q=80",
+    "link_url": "https://github.com/nanasmuda121/Nanas-Project"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "subjudul": "Fast QRIS Payment & Smart Wallet",
     "deskripsi": "Aplikasi dompet digital cerdas dengan pemindaian QRIS kilat, transfer saldo instan, riwayat transaksi berkategori, dan split bill otomatis.",
     "tags": ["Flutter", "Dart", "Firebase", "State Management"],
-    "image_url": "https://images.unsplash.com/photo-1556742049-0a67c5574f73?auto=format&fit=crop&w=800&q=80"
+    "image_url": "https://images.unsplash.com/photo-1556742049-0a67c5574f73?auto=format&fit=crop&w=800&q=80",
+    "link_url": "https://github.com/nanasmuda121/Nanas-Project"
   },
   {
     "id": 3,
@@ -21,6 +23,7 @@
     "subjudul": "AI-Powered Workout & Nutrition App",
     "deskripsi": "Pendamping kebugaran mobile dengan rekomendasi program latihan personal, kalkulator makronutrisi, serta pelacak repetisi latihan terstruktur.",
     "tags": ["React Native", "Tailwind CSS", "Zustand", "SQLite"],
-    "image_url": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=800&q=80"
+    "image_url": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=800&q=80",
+    "link_url": "https://github.com/nanasmuda121/Nanas-Project"
   }
 ]

@@ -5,7 +5,8 @@
     "subjudul": "Web App Dining & Online Reservation",
     "deskripsi": "Aplikasi web restoran interaktif dengan fitur live cart order, sistem reservasi meja otomatis, dan katalog menu modern yang responsif.",
     "tags": ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+    "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+    "link_url": "https://savora-kitchen.vercel.app"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "subjudul": "Cloud Infrastructure & Metrics Platform",
     "deskripsi": "Dashboard analitik performa server real-time dengan grafik interaktif, notifikasi webhook cerdas, dan audit log keamanan terintegrasi.",
     "tags": ["Next.js", "Tailwind CSS", "Recharts", "Zustand"],
-    "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80"
+    "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+    "link_url": "https://nexus-dashboard.vercel.app"
   },
   {
     "id": 3,
@@ -21,6 +23,7 @@
     "subjudul": "Virtual Exhibition & Digital Art Space",
     "deskripsi": "Eksplorasi galeri seni digital dan pameran kuratorial dengan ruang pamer virtual 3D, efek pencahayaan dinamis, serta navigasi interaktif.",
     "tags": ["React", "Three.js", "Tailwind CSS", "Vite"],
-    "image_url": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=800&q=80"
+    "image_url": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=800&q=80",
+    "link_url": "https://artpulse-gallery.vercel.app"
   }
 ]
