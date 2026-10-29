@@ -78,7 +78,7 @@ File `pengalaman.json` mengatur angka statistik pengalaman yang tampil di halama
    - Proyek website: [`website.json`](website.json)
    - Proyek aplikasi: [`aplikasi.json`](aplikasi.json)
    - Statistik pengalaman: [`pengalaman.json`](pengalaman.json)
-2. Klik tombol **Edit this file** (ikon pensil 📝).
+2. Klik tombol **Edit this file** (ikon pensil).
 3. Lakukan pengeditan data.
 4. Klik **Commit changes**.
 5. Website portofolio akan langsung memperbarui tampilan secara otomatis!
