@@ -26,19 +26,5 @@
     ],
     "image_url": "https://raw.githubusercontent.com/nanasmuda121/Nanas-Project/main/image/adnan-ferdiansyah-portofolio-1793407277058.webp",
     "link_url": "https://adnan-ferdiansyah.my.id"
-  },
-  {
-    "id": 3,
-    "judul": "Artpulse 3D Gallery",
-    "subjudul": "Virtual Exhibition & Digital Art Space",
-    "deskripsi": "Eksplorasi galeri seni digital dan pameran kuratorial dengan ruang pamer virtual 3D, efek pencahayaan dinamis, serta navigasi interaktif.",
-    "tags": [
-      "React",
-      "Three.js",
-      "Tailwind CSS",
-      "Vite"
-    ],
-    "image_url": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=800&q=80",
-    "link_url": "https://artpulse-gallery.vercel.app"
   }
 ]
