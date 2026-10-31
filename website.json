@@ -15,16 +15,15 @@
   },
   {
     "id": 2,
-    "judul": "Nexus Cloud Dashboard",
-    "subjudul": "Cloud Infrastructure & Metrics Platform",
-    "deskripsi": "Dashboard analitik performa server real-time dengan grafik interaktif, notifikasi webhook cerdas, dan audit log keamanan terintegrasi.",
+    "judul": "Adnan Ferdiansyah Portofolio",
+    "subjudul": "Portofolio sederhana",
+    "deskripsi": "Portofolio sederhana dengan 3d card lanyad dan list project .",
     "tags": [
-      "Next.js",
-      "Tailwind CSS",
-      "Recharts",
-      "Zustand"
+      "React",
+      "ReactBits",
+      "FarmerMotion"
     ],
-    "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+    "image_url": "https://raw.githubusercontent.com/nanasmuda121/Nanas-Project/main/image/adnan-ferdiansyah-portofolio-1793407160787.webp",
     "link_url": "https://nexus-dashboard.vercel.app"
   },
   {
