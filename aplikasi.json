@@ -12,20 +12,6 @@
     "link_url": "https://www.mediafire.com/file/9qsnv4vjzec27gj/app-release_%25282%2529.apk/file"
   },
   {
-    "id": 2,
-    "judul": "PayWave Cashless",
-    "subjudul": "Fast QRIS Payment & Smart Wallet",
-    "deskripsi": "Aplikasi dompet digital cerdas dengan pemindaian QRIS kilat, transfer saldo instan, riwayat transaksi berkategori, dan split bill otomatis.",
-    "tags": [
-      "Flutter",
-      "Dart",
-      "Firebase",
-      "State Management"
-    ],
-    "image_url": "https://images.unsplash.com/photo-1556742049-0a67c5574f73?auto=format&fit=crop&w=800&q=80",
-    "link_url": "https://github.com/nanasmuda121/Nanas-Project"
-  },
-  {
     "id": 4,
     "judul": "Beatles",
     "subjudul": "Aplikasi Stream Musik",
