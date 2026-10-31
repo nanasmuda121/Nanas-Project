@@ -26,20 +26,6 @@
     "link_url": "https://github.com/nanasmuda121/Nanas-Project"
   },
   {
-    "id": 3,
-    "judul": "Fitpulse Gym Companion",
-    "subjudul": "AI-Powered Workout & Nutrition App",
-    "deskripsi": "Pendamping kebugaran mobile dengan rekomendasi program latihan personal, kalkulator makronutrisi, serta pelacak repetisi latihan terstruktur.",
-    "tags": [
-      "React Native",
-      "Tailwind CSS",
-      "Zustand",
-      "SQLite"
-    ],
-    "image_url": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=800&q=80",
-    "link_url": "https://github.com/nanasmuda121/Nanas-Project"
-  },
-  {
     "id": 4,
     "judul": "Beatles",
     "subjudul": "Aplikasi Stream Musik",
