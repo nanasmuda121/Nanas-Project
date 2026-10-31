@@ -15,16 +15,17 @@
   },
   {
     "id": 2,
-    "judul": "Adnan Ferdiansyah Portofolio",
+    "judul": "Adnan Ferdiansyah portofolio",
     "subjudul": "Portofolio sederhana",
-    "deskripsi": "Portofolio sederhana dengan 3d card lanyad dan list project .",
+    "deskripsi": "Portofolio sederhana yang di bangun dengan bantuan komponen dari reactbits.",
     "tags": [
       "React",
-      "ReactBits",
+      "Typescript",
+      "Reactnbits",
       "FarmerMotion"
     ],
-    "image_url": "https://raw.githubusercontent.com/nanasmuda121/Nanas-Project/main/image/adnan-ferdiansyah-portofolio-1793407160787.webp",
-    "link_url": "https://nexus-dashboard.vercel.app"
+    "image_url": "https://raw.githubusercontent.com/nanasmuda121/Nanas-Project/main/image/adnan-ferdiansyah-portofolio-1793407277058.webp",
+    "link_url": "https://adnan-ferdiansyah.my.id"
   },
   {
     "id": 3,
